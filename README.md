@@ -1,4 +1,4 @@
-# Unified Predictive Maintenance (AI4I 2020)
+#  Predictive Maintenance (AI4I 2020)
 
 Binary machine-failure prediction with Logistic Regression, Random Forest and a Keras ANN, including a reliability audit,
 a cost-based threshold analysis, a controlled ANN experiment (learning rate x 5 seeds), two extra experiments
